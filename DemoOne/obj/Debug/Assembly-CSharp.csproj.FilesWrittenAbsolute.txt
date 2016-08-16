@@ -1,0 +1,17 @@
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/UnityEngine.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/UnityEditor.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Mono.Cecil.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Unity.DataContract.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/obj/Debug/Assembly-CSharp.dll
+/Users/terra/Documents/Object/DemoUnity3D/DemoOne/obj/Debug/Assembly-CSharp.dll.mdb
